@@ -1,4 +1,4 @@
-Todo App built with Typescript and Tailwind Css
+Todo App built with Typescript and Tailwind CSS
 
 Features:
 Add, complete, delete todos
