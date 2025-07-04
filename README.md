@@ -1,7 +1,7 @@
 Todo App built with Typescript and Tailwind Css
 
 Features:
-Add, cross off, delete todos
+Add, complete, delete todos
 Categorise todos 
 Local storage to save todos
 Responsive UI
