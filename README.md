@@ -48,9 +48,9 @@ A simple and modern Todo App built with **TypeScript** ⚡, **React** ⚛️, an
    ```
 
 ## 📁 Folder Structure
-App.tsx – Main app logic and state management
-AddTodoForm.tsx – Form for adding todos
-TodoItem.tsx – Individual todo display and actions
-index.tsx – App entry point
-App.css – Custom styles
+- App.tsx – Main app logic and state management
+- AddTodoForm.tsx – Form for adding todos
+- TodoItem.tsx – Individual todo display and actions
+- index.tsx – App entry point
+- App.css – Custom styles
 
